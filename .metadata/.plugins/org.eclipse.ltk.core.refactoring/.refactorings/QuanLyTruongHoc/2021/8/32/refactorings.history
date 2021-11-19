@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private int choseScan(Scanner scan)&apos; from &apos;DanhSachThanhVien.input(...)&apos; to &apos;DanhSachThanhVien&apos;&#x0D;&#x0A;- Original project: &apos;QuanLyTruongHoc&apos;&#x0D;&#x0A;- Method name: &apos;choseScan&apos;&#x0D;&#x0A;- Destination type: &apos;DanhSachThanhVien&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;choseScan&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;{DanhSachThanhVien.java" name="choseScan" replace="false" selection="593 405" stamp="1627979614806" version="1.0" visibility="2"/>
+</session>

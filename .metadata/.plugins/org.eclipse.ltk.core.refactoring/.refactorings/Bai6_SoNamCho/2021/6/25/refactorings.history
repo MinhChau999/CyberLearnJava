@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;deposits&apos; in &apos;XuLy.main(...)&apos; to &apos;principal&apos;&#x0D;&#x0A;- Original project: &apos;Bai6_SoNamCho&apos;&#x0D;&#x0A;- Original element: &apos;XuLy.main(String[]).deposits&apos;&#x0D;&#x0A;- Renamed element: &apos;deposits&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;deposits&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{XuLy.java[XuLy~main~\[QString;@deposits!252!285!258!265!F!0!false" name="principal" references="true" stamp="1624072233928" version="1.0"/>
+</session>
