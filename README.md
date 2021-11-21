@@ -5,14 +5,14 @@
 
 ## Mục tiêu
 
-*Nắm rõ qui trình hoạt động của một ứng dựng phần mềm*
-*Nắm vững quá trình thực thi ứng dụng phần mềm, biến, hàm, mô hình thực tế - phần mềm*
-*Hiểu và nắm các kỹ năng cần thiết của một lập trình chuẩn*
-*Các khái niệm cốt lõi - nền tảng của lập trình*
-*Nắm vững một số thuật toán lập trình nền tảng*
-*Nắm vững và hiểu sâu về lập trình hướng đối tượng*
-*Nắm vững và Thực hành kỹ thuật code, kỹ năng phân tích & giải quyết vấn đề*
-*Nắm vững và Thực hành phân tích Sơ đồ lớp, phân tích dự*
+*- Nắm rõ qui trình hoạt động của một ứng dựng phần mềm*
+*- Nắm vững quá trình thực thi ứng dụng phần mềm, biến, hàm, mô hình thực tế - phần mềm*
+*- Hiểu và nắm các kỹ năng cần thiết của một lập trình chuẩn*
+*- Các khái niệm cốt lõi - nền tảng của lập trình*
+*- Nắm vững một số thuật toán lập trình nền tảng*
+*- Nắm vững và hiểu sâu về lập trình hướng đối tượng*
+*- Nắm vững và Thực hành kỹ thuật code, kỹ năng phân tích & giải quyết vấn đề*
+*- Nắm vững và Thực hành phân tích Sơ đồ lớp, phân tích dự*
 
 ## Khóa 1: Tư duy lập trình, thuật toán, hướng đối tượng
 
@@ -130,14 +130,14 @@
 
 ### Kiến thức lập trình hướng đối tượng chuyên sâu
 
- * Lớp trừu tượng - Phương thức trừu tượng
- * Interface trong hướng đối tượng
+* Lớp trừu tượng - Phương thức trừu tượng
+* Interface trong hướng đối tượng
 
 ### Thực hiện dự án chuyên sâu thực tế
 
- * Xây dựng dự án Quản Lý Nhân Sự
- * Xây dựng dự án Quản Lý Task
- * Phân tích nghiệp vụ & Triển khai
- * Phân tích sơ đồ lớp
- * Thực hiện các nghiệp vụ Phân bổ, Thêm, Xóa, Sửa
- * Áp dụng giải thuật tìm kiếm, sắp xếp cho dự án
+* Xây dựng dự án Quản Lý Nhân Sự
+* Xây dựng dự án Quản Lý Task
+* Phân tích nghiệp vụ & Triển khai
+* Phân tích sơ đồ lớp
+* Thực hiện các nghiệp vụ Phân bổ, Thêm, Xóa, Sửa
+* Áp dụng giải thuật tìm kiếm, sắp xếp cho dự án
