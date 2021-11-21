@@ -11,15 +11,15 @@ Trong kỳ thi tuyển sinh, một thí sinh sẽ trúng tuyển nếu có đi�
 * Điểm 3 môn thi của thí sinh  
 * Khu vực (nhập X nếu không thuộc khu vực ưu tiên)
 * Đối tượng thi (nhập 0 nếu không thuộc đối tượng ưu tiên)  
-|           Khu vực                     |
+
+**Khu Vực**  
 |       A       |      B        | C     |
 | :------------:|:-------------:|:-----:|
-|    2          |        1      |  0.5  |  
+|    2          |        1      |  0.5  |
 
-|           Đối tượng                   |
+**Đối tượng**  
 |       1       |      2        | 3     |
 | :------------:|:-------------:|:-----:|
-|    2.5        |       1.5     |  1    |  
-
+|    2.5        |       1.5     |  1    |
 
 **Viết chương trình cho biết việc đậu hay rớt của một thí sinh và tổng số điểm đạt được**
