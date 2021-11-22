@@ -34,7 +34,7 @@ Hãy viết chương trình tính số năm ít nhất mà anh X phải chờ đ
 ## Bài tập 7: Vòng lặp lồng 'Tam giác sao'
 
 **Dùng vòng lặp lồng, viết chương trình in ra tam giác cân đặc và rỗng, tạo ra từ các dấu (*), có độ cao là n nhập từ bàn phím.**  
-![alt text](Khoa_1_Chuong_5\SaoTamGiac.PNG?raw=true)  
+![alt text](https://github.com/MinhChau999/CyberLearnJava/blob/main/Khoa_1_Chuong_5/SaoTamGiac.PNG?raw=true)  
 
 ## Bài tập 8: Lãi suất
 
@@ -44,7 +44,7 @@ Trong đó:
 *- a(mount) là vốn tích lũy được*  
 *- r(rate) là lãi suất*  
 *- n là số năm đầu tư*  
-![alt text](Khoa_1_Chuong_5/LaiSuat.jpg?raw=true)  
+![alt text](https://github.com/MinhChau999/CyberLearnJava/blob/main/Khoa_1_Chuong_5/LaiSuat.jpg?raw=true)  
 
 ## Bài tập 9: Đổi tiền
 
