@@ -6,6 +6,7 @@ Trong kỳ thi tuyển sinh, một thí sinh sẽ trúng tuyển nếu có đi�
 *- Điểm tổng kết là tổng điểm của 3 môn thi và điểm ư tiên.*  
 *- Điểm ưu tiên bao gồm điểm ưu tiên theo khu vực và điểm ưu tiên theo đối tượng.*  
 **Viết chương trình nhập:**
+
 * Điểm chuẩn của hội đồng
 * Điểm 3 môn thi của thí sinh  
 * Khu vực (nhập X nếu không thuộc khu vực ưu tiên)
@@ -51,3 +52,14 @@ Tính và xuất tiền trả theo quy tắc:
 |           150kW kế     |        1100     |
 |          Còn lại       |        1300     |  
 
+## Bài tập 4: Tính tiền cáp
+
+Viết chương trình tính hóa đơn khách hàng cho một công ty cáp. Có 2 loại khách hàng: nhà dân và doanh nghiệp. Có 2 mức giá để tính toán tiền cáp. Đối với khách hàng nhà dân, mức giá tính theo:  
+*- Phí xử lý hóa đơn: 4.5$*  
+*- Phí dịch vụ cơ bản: 20.5$*  
+*- Thuê kênh cao cấp: 7.5$/kênh*  
+Đối với khách hàng doanh nghiệp:  
+*- Phí xử lý hóa đơn: 15$*  
+*- Phí dịch vụ cơ bản: 75$ cho 10 kết nối đầu, 5$ cho mỗi kết nối thêm*  
+*- Thuê kênh cao cấp: 50$/kênh*
+**Chương trình cho phép nhập vào mã khách hàng, số tài khoản. Nhập 1 cho khách hàng nhà dân và 2 cho khách hàng doanh nghiệp**
